@@ -1,9 +1,19 @@
 Readme.md
 
 Hey to whoever decided to read this. I am Mr. Milk.
-I, as of Summer 2023, am a newbie coder taking up HTML5, And CSS. Python seems doable as well, but JavaScript seems comlicated ☹️
+I, as of Summer 2023, am a newbie coder taking up HTML5, And CSS. Python seems doable as well, but JavaScript seems comlicated ☹️. 
 
-  If you've found this profile, than thank you. I spent A long time trying to manage web development projects, but using github has made it easier.
-  I am designing HTML5, and if you have any thoughts or criticizms you would like to share, feel free to contact me through a repo's issues site.
+I liek raspberry pi, and most forms of linux.
+ **NO ARCH. I NO LIEK ARCH. AM ToO INEXPERIENCED**
+I like experimenting on a Raspberry Pi 5 I pre-ordered a long time ago, and came in december. 
+'Tis Fun.
+I am going to make a list of useful commands I have collected in my 2 years of working on a pi 4, and now a pi 5.
+Seeya!
 
-  Bye, whoever read this!
+
+#linuxmasterrace
+*Windows sucks,*
+            *Bye.*
+
+Signed, 
+*MrMilk12*.
